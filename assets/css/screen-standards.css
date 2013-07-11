@@ -341,8 +341,11 @@ INPUT.radio {width: 20px !important;}
 .menu_items LI {padding: 5px 0; border-bottom: 1px dotted #78427a; position: relative; margin: 0 0 5px 0;}
 .menu_items LI .m_title {color: #583059; font-size: 1.8em; font-weight: 700;}
 .menu_items LI .m_description {color: #916b93; margin-bottom: 0; width: 84%; min-height: 55px;}
-.menu_items LI .m_price {color: #e51072; display: block; font-size: 4.2em; position: absolute; right: 0; text-align: right; top: 24%; font-weight: 700;}
-.menu_items LI .m_price .m_sign {font-size: 0.3em; position: absolute; font-weight: 700; left: -7px; top: 6px;}
+.menu_items .m_price {color: #e51072; display: block; font-size: 4.2em; position: absolute; right: 0; text-align: right; top: 24%; font-weight: 700;}
+.menu_items .m_sign {font-size: 0.3em; position: absolute; font-weight: 700; left: -7px; top: 6px;}
+p.m_service {position: relative; width: 100%; margin: 0 0 4px 0;}
+p.m_service .m_price {font-size: 1.2em; top: 0;}
+p.m_service .m_sign {top: -2px;}
 .menu_items_selected {display: block !important;}
 
 .alt_menu {list-style: none; width: 100%; margin: 15px auto 80px; padding: 0;}

@@ -49,15 +49,15 @@
 								
 								<li>
 									<h3 class="m_title">Deluxe Style</h3>
-									<p class="m_description"><i>#1 Best Selling Sew-In</i> Single Tracking Method; custom braid pattern, designer cut + style</p>
+									<p class="m_description">#1 Best Selling Sew-In Single Tracking Method; custom braid pattern, designer cut + style</p>
 									<span class="m_price"><span class="m_sign">$</span>99</span>
 								</li>
 								
 								<li>
 									<h3 class="m_title">Supreme Style</h3>
-									<p class="m_description"><i>Best Option for clients with short hair or hair loss.</i> Net Extensions; includes custom braid pattern, flat iron, designer cut + trim; double-track</p>
+									<p class="m_description">Best Option for clients with short hair or hair loss. Net Extensions; includes custom braid pattern, flat iron, designer cut + trim; double-track</p>
 									<span class="m_price"><span class="m_sign">$</span>95</span>
-									<p class="m_description"><i>Single-track</p>
+									<p class="m_description">Single-track</p>
 									<span class="second_m_price"><span class="second_m_sign">$</span>105</span>
 								</li>
 							

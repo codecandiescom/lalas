@@ -36,39 +36,47 @@
 							<ol id="menu_items_hairweaving_ul" class="menu_items active_menu">
 							
 								<li>
+									<h3 class="m_title">Quick Weave</h3>
+									<p class="m_description">Full head bonded over molded wrap. Protector is always used.</p>
+									<span class="m_price"><span class="m_sign">$</span>65+</span>
+								</li>
+
+								<li>
 									<h3 class="m_title">Quick Extensions</h3>
 									<p class="m_description">wefts are bonded w/no hair left out; styles with bangs only; (designer cut + style not included)</p>
 									<span class="m_price"><span class="m_sign">$</span>65</span>
 								</li>
 								
 								<li>
-									<h3 class="m_title">Super Style</h3>
-									<p class="m_description">Full head sew-in w/hair left out to cover wefts; double-tracking method; includes trim + flat iron </p>
-									<span class="m_price"><span class="m_sign">$</span>50</span>
-								</li>
-								
-								<li>
 									<h3 class="m_title">Deluxe Style</h3>
-									<p class="m_description">Single Tracking Method; designer cut + style</p>
+									<p class="m_description"><i>#1 Best Selling Sew-In</i> Single Tracking Method; custom braid pattern, designer cut + style</p>
 									<span class="m_price"><span class="m_sign">$</span>99</span>
 								</li>
 								
 								<li>
 									<h3 class="m_title">Supreme Style</h3>
-									<p class="m_description">Net Extensions (for clients with short hair or hair loss); includes flat iron + trim</p>
-									<span class="m_price"><span class="m_sign">$</span>85</span>
+									<p class="m_description"><i>Best Option for clients with short hair or hair loss.</i> Net Extensions; includes custom braid pattern, flat iron, designer cut + trim; double-track</p>
+									<span class="m_price"><span class="m_sign">$</span>95</span>
+									<p class="m_description"><i>Single-track</p>
+									<span class="second_m_price"><span class="second_m_sign">$</span>105</span>
 								</li>
 							
 								<li>
 									<h3 class="m_title">Ultimate Style</h3>
-									<p class="m_description">Full Head sew-in w/closure; double-tracking; includes designer cut + style</p>
-									<span class="m_price"><span class="m_sign">$</span>75</span>
+									<p class="m_description">Any way you want it! Double tracking, designer cut + style</p>
+									<span class="m_price"><span class="m_sign">$</span>90</span>
 								</li>
-								
+
 								<li>
-									<h3 class="m_title">Extreme Style</h3>
-									<p class="m_description">Full head sew-in w/hair left out to cover wefts; double-tracking method; includes designer cut + style</p>
-									<span class="m_price"><span class="m_sign">$</span>65</span>
+									<h3 class="m_title">Braidless Sew In (Microlink Sew In)</h3>
+									<p class="m_description">#1 for Fine or Medium Textured Hair ; Wefts are sewn on a Microlink base. Perfect for adding length and fullness.</p>
+									<span class="m_price"><span class="m_sign">$</span>$20-per track $125-Half Head $200-Full Head</span>
+								</li>
+
+								<li>
+									<h3 class="m_title">Volumetric Sew In</h3>
+									<p class="m_description">Pump up the volume! This versatile sew-in gives you performance ready hair. It can be parted vertically or horizontally with no tracks showing! Minimum of 3 bundles are required.; single Track, custom braid pattern, designer cut + style</p>
+									<span class="m_price"><span class="m_sign">$</span>175 (up to 3 bundles), $200 (3+bundles)</span>
 								</li>
 								
 							</ol>
@@ -81,17 +89,17 @@
 								<li>
 									<h3 class="m_title">Shampoo + Blow Dry</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>15</span>
+									<span class="m_price"><span class="m_sign">$</span>20</span>
 								</li>
 								
 								<li>
 									<h3 class="m_title">Partial Relaxer</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>17</span>
+									<span class="m_price"><span class="m_sign">$</span>15</span>
 								</li>
 								
 								<li>
-									<h3 class="m_title">Partial Color Rinse</h3>
+									<h3 class="m_title">Partial Color Rinse (Edges only)</h3>
 									<p class="m_description"></p>
 									<span class="m_price"><span class="m_sign">$</span>10</span>
 								</li>
@@ -99,13 +107,13 @@
 								<li>
 									<h3 class="m_title">Razor Cut</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>20</span>
+									<span class="m_price"><span class="m_sign">$</span>15</span>
 								</li>
 								
 								<li>
 									<h3 class="m_title">Basic Layered Cut (Medium-Long Length)</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>15</span>
+									<span class="m_price"><span class="m_sign">$</span>20</span>
 								</li>
 								
 								<li>
@@ -117,7 +125,7 @@
 								<li>
 									<h3 class="m_title">Extension Straightening</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>15</span>
+									<span class="m_price"><span class="m_sign">$</span>20</span>
 								</li>
 								
 								<li>
@@ -134,8 +142,14 @@
 								
 							</ol>
 							
-						<h2 id="menu_items_specialtyweave">Specialty Extensions Styles</h2>
+						<h2 id="menu_items_specialtyweave">Specialty Extensions Services</h2>
 						<ol class="alt_menu">
+									<li>
+									<h3 class="m_title">Updo</h3>
+									<p class="m_description"></p>
+									<span class="m_price"><span class="m_sign">$</span>40</span>
+								</li>
+
 								<li>
 									<h3 class="m_title">Ponytail</h3>
 									<p class="m_description"></p>
@@ -160,7 +174,7 @@
 								<li>
 									<h3 class="m_title">Full-Head Retighten</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>25</span>
+									<span class="m_price"><span class="m_sign">$</span>35</span>
 								</li>
 								<li>
 									<h3 class="m_title">Single Track: Sew</h3>
@@ -174,9 +188,9 @@
 									<span class="m_price"><span class="m_sign">$</span>5</span>
 								</li>
 								<li>
-									<h3 class="m_title">Extensions Removal</h3>
+									<h3 class="m_title">Extensions Removal with Wash</h3>
 									<p class="m_description"></p>
-									<span class="m_price"><span class="m_sign">$</span>25</span>
+									<span class="m_price"><span class="m_sign">$</span>45</span>
 								</li>
 							</ol>
 							
@@ -263,9 +277,9 @@
 										</li>
 										
 										<li>
-											<h3 class="m_title"><span class="alert_star">*</span>Relaxer, Conditioner &amp; Straighten</h3>
+											<h3 class="m_title"><span class="alert_star">*</span>Relaxer, Deep Conditioner &amp; Style</h3>
 											<p class="m_description"></p>
-											<span class="m_price"><span class="m_sign">$</span>54.99</span>
+											<span class="m_price"><span class="m_sign">$</span>64.99</span>
 										</li>
 										<li>
 											<span class="alert">*Trims are complimentary</span>
@@ -278,12 +292,12 @@
 										<li>
 											<h3 class="m_title">Designer Cut (long)</h3>
 											<p class="m_description"></p>
-											<span class="m_price"><span class="m_sign">$</span>15</span>
+											<span class="m_price"><span class="m_sign">$</span>20</span>
 										</li>
 										<li>
 											<h3 class="m_title">Designer Cut (short)</h3>
 											<p class="m_description"></p>
-											<span class="m_price"><span class="m_sign">$</span>10</span>
+											<span class="m_price"><span class="m_sign">$</span>25</span>
 										</li>
 										<li>
 											<h3 class="m_title">Ceremic Press</h3>
@@ -302,7 +316,7 @@
 											<li>
 												<h3 class="m_title">Deep Moisturizing Conditioner</h3>
 												<p class="m_description"></p>
-												<span class="m_price"><span class="m_sign">$</span>7</span>
+												<span class="m_price"><span class="m_sign">$</span>10</span>
 											</li>
 											<li>
 												<h3 class="m_title">Hot Oil Treatment</h3>
@@ -312,7 +326,7 @@
 											<li>
 												<h3 class="m_title">Protein Treatment</h3>
 												<p class="m_description"></p>
-												<span class="m_price"><span class="m_sign">$</span>10</span>
+												<span class="m_price"><span class="m_sign">$</span>15</span>
 											</li>
 										</ol>
 										
@@ -321,23 +335,47 @@
 												<li>
 													<h3 class="m_title">Virgin Relaxer</h3>
 													<p class="m_description"></p>
-													<span class="m_price"><span class="m_sign">$</span>55</span>
+													<span class="m_price"><span class="m_sign">$</span>85</span>
 												</li>
 												<li>
 													<h3 class="m_title">Partial (back &amp; sides)</h3>
 													<p class="m_description"></p>
-													<span class="m_price"><span class="m_sign">$</span>10</span>
+													<span class="m_price"><span class="m_sign">$</span>20</span>
 												</li>
 												<li>
 													<h3 class="m_title">Color Rinse</h3>
 													<p class="m_description"></p>
-													<span class="m_price"><span class="m_sign">$</span>17</span>
+													<span class="m_price"><span class="m_sign">$</span>20</span>
 												</li>
 												
 												<li>
-													<h3 class="m_title">Highlights</h3>
+													<h3 class="m_title">Highlights/Lowlight Half Head</h3>
 													<p class="m_description"></p>
-													<span class="m_price"><span class="m_sign">$</span>30</span>
+													<span class="m_price"><span class="m_sign">$</span>50</span>
+												</li>
+
+												<li>
+													<h3 class="m_title">Highlights/Lowlight Full Head</h3>
+													<p class="m_description"></p>
+													<span class="m_price"><span class="m_sign">$</span>60+</span>
+												</li>
+
+												<li>
+													<h3 class="m_title">Single Process Color</h3>
+													<p class="m_description"></p>
+													<span class="m_price"><span class="m_sign">$</span>65+</span>
+												</li>
+
+												<li>
+													<h3 class="m_title">Double Process Color</h3>
+													<p class="m_description"></p>
+													<span class="m_price"><span class="m_sign">$</span>85+</span>
+												</li>
+
+												<li>
+													<h3 class="m_title">Single Foils</h3>
+													<p class="m_description"></p>
+													<span class="m_price"><span class="m_sign">$</span>5</span>
 												</li>
 											</ol>
 											

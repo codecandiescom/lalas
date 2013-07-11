@@ -343,6 +343,8 @@ INPUT.radio {width: 20px !important;}
 .menu_items LI .m_description {color: #916b93; margin-bottom: 0; width: 84%; min-height: 55px;}
 .menu_items LI .m_price {color: #e51072; display: block; font-size: 4.2em; position: absolute; right: 0; text-align: right; top: 24%; font-weight: 700;}
 .menu_items LI .m_price .m_sign {font-size: 0.3em; position: absolute; font-weight: 700; left: -7px; top: 6px;}
+.menu_items LI .second_m_price {color: #E51072; display: block;font-size: 4.2em; font-weight: 700; position: absolute; right: 0; text-align: right; top: 60%;}
+.menu_items LI .second_m_price .second_m_sign {font-size: 0.3em; position: absolute; font-weight: 700; left: -7px; top: 12px;}
 .menu_items_selected {display: block !important;}
 
 .alt_menu {list-style: none; width: 100%; margin: 15px auto 80px; padding: 0;}

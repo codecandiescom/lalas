@@ -1,0 +1,12 @@
+/** INTERNET EXPLORER (SATAN) FIXES **/
+
+*#top_tab A {font-size: 18px;}
+*#top_tab.ui-state-default A {font-size: 18px; color: #a572a6;}
+*#top_tab.ui-state-active A {font-size: 18px; color: #ffffff !important;}
+*#trending_tab A {font-size: 18px; color: #a572a6;}
+*#trending_tab.ui-state-default A {font-size: 18px; color: #a572a6;}
+*#trending_tab.ui-state-active {-moz-border-radius: 0; -webkit-border-radius: 0;}
+*#trending_tab.ui-state-active A {font-size: 18px; color: #ffffff;}
+*#trending_content {background: #2f1930; padding: 0; width: 100%; position: relative; display: none; -moz-border-radius: 0 0 6px 6px; -webkit-border-radius: 0 0 6px 6px; font-size: 1.2em;}
+
+

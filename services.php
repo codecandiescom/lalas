@@ -77,13 +77,36 @@
 								<li>
 									<h3 class="m_title">Braidless Sew In (Microlink Sew In)</h3>
 									<p class="m_description">#1 for Fine or Medium Textured Hair ; Wefts are sewn on a Microlink base. Perfect for adding length and fullness.</p>
-									<span class="m_price"><span class="m_sign">$</span>$20-per track $125-Half Head $200-Full Head</span>
+									
+									<p class="m_service">
+										Per Track
+										<span class="m_price"><span class="m_sign">$</span>20</span>
+									</p>
+									<p class="m_service">
+										Half Head
+										<span class="m_price"><span class="m_sign">$</span>125</span>
+									</p>
+
+									<p class="m_service">
+										Full Head
+										<span class="m_price"><span class="m_sign">$</span>200</span>
+									</p>	
+
 								</li>
 
 								<li>
 									<h3 class="m_title">Volumetric Sew In</h3>
 									<p class="m_description">Pump up the volume! This versatile sew-in gives you performance ready hair. It can be parted vertically or horizontally with no tracks showing! Minimum of 3 bundles are required.; single Track, custom braid pattern, designer cut + style</p>
-									<span class="m_price"><span class="m_sign">$</span>175 (up to 3 bundles), $200 (3+bundles)</span>
+									
+									<p class="m_service">
+										Up to 3 Bundles
+										<span class="m_price"><span class="m_sign">$</span>175</span>
+									</p>
+									<p class="m_service">
+										Over 3 Bundles
+										<span class="m_price"><span class="m_sign">$</span>300</span>
+									</p>
+
 								</li>
 								
 							</ol>
